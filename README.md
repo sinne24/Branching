@@ -14,4 +14,9 @@
 ### Branching Commands
 * `git branch`
 * `git branch -M branchName` renames branch to branchName
-*
+* `git checkout branchName`
+
+### Remote Commands
+* `git remote add origin someRemoteRepoUrl`
+* `git push origin Informational`
+* `git push origin branchName`
